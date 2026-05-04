@@ -69,10 +69,10 @@ def delete_product():
 
 
 if __name__ == "__main__":
-    init_db()           # 1️⃣ Crea la tabla
-    #insert_products()   # 2️⃣ Inserta productos
-    #query_products()    # 3️⃣ Muestra todos
-    #update_product()    # 4️⃣ Actualiza id=1
-    #query_products()    # 3️⃣ Muestra cambios
-    delete_product()    # 5️⃣ Elimina id=2
-    query_products()    # 3️⃣ Muestra resultado final
+    init_db()           
+    #insert_products()   
+    #query_products()  
+    #update_product()    
+    #query_products()    
+    delete_product()    
+    query_products()    
